@@ -3,3 +3,7 @@ Ireland Coronavirus Cases:
 
 Deaths:
 610
+
+
+Daily New Cases in Ireland
+=============================
