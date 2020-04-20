@@ -1,9 +1,18 @@
+Daily New Cases in Ireland
+=============================
 Ireland Coronavirus Cases:
 15,251
 
-Deaths:
-610
+Deaths: 610
 
+Recovered: 77
 
-Daily New Cases in Ireland
-=============================
+Countries:
+================
+China
+
+Italy
+
+Spain
+
+United States
