@@ -3,3 +3,16 @@ Ireland Coronavirus Cases:
 
 Deaths:
 610
+
+Recovered:
+77
+
+Countries:
+================
+China
+South Korea
+Iran
+Italy
+Spain
+France
+United States
